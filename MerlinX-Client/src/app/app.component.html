@@ -1,0 +1,36 @@
+<div class="container-fluid container-style">
+  <div class="row row-style" style="height: 10%;">
+
+    <mat-form-field appearance="fill">
+      <mat-label>Enter a date range</mat-label>
+      <mat-date-range-input [rangePicker]="picker" [max]="maxDate"  >
+        <input matStartDate placeholder="Start date" (dateInput)="startDateSelected($event)">
+        <input matEndDate placeholder="End date" (dateInput)="endDateSelected($event)">
+      </mat-date-range-input>
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-date-range-picker #picker ></mat-date-range-picker>
+    </mat-form-field>
+  </div>
+
+  <div class="row row-style" style="height: 10%;">
+
+    <mat-form-field appearance="fill">
+      <mat-label>Select news source</mat-label>
+      <mat-select [(value)]="selectedSource">
+        <mat-option *ngFor="let source of sources" value="{{source}}">{{source}}</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+  </div>
+  <div class="row row-style" style="height: 20%;">
+    <button class="btn btn-info" [disabled]="clicked || startDate==null || endDate==null" [ngClass]="{'animation' : clicked}" (click)="onClick()">Load</button>
+  </div>
+  <div class="row row-style" style="height: 60%;">
+    <angular-tag-cloud
+    [data]="data"
+    [width]="options.width"
+    [height]="options.height"
+    [overflow]="options.overflow">
+    </angular-tag-cloud>
+  </div>
+</div>

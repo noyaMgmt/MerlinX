@@ -1,0 +1,15 @@
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\marlinX.exe
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\marlinX.deps.json
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\marlinX.runtimeconfig.json
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\marlinX.runtimeconfig.dev.json
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\marlinX.dll
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\marlinX.pdb
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.csprojAssemblyReference.cache
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.AssemblyInfoInputs.cache
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.AssemblyInfo.cs
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.dll
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.pdb
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.genruntimeconfig.cache
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.csproj.CoreCompileInputs.cache
+C:\Users\naharon\source\repos\marlinX\marlinX\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\naharon\source\repos\marlinX\marlinX\obj\Debug\netcoreapp3.1\marlinX.csproj.CopyComplete

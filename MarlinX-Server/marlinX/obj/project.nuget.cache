@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJIIH/a4dyELpCJJC0WUJeTcmrQfwnlnelnO6VejtdCzlu/3e64bM8ZNFj8k4NeH0oiVqXmJBgFh/pr28vDi/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naharon\\source\\repos\\marlinX\\marlinX\\marlinX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naharon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
